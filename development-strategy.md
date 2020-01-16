@@ -9,4 +9,4 @@
 | Newsletter section | The user can use the subscribe form | Add an id, a class container, and I create a button for submit the form. | Without changes |
 | Services Area | Show basic information about the services, in a general way. | Create the container, and the three boxes with the respective image. | Without changes |
 | Footer | The user can see the copyright and the official name of the company. | Adding a footer  | Without changes  |
-
+| Styling home page | In this area the user can see the home page with the menu, the general information, the newsletter section and subscribe, and show the information of the services.  | Without changes | Styling: header, show case area, newsletter,services area, and the footer  |
