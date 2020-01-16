@@ -5,3 +5,4 @@
 | --- | --- | --- | --- |
 | Starting | Create the different files for starting the web page, for do it correctly, show the information organized and make clear the steps for made the web site | Write in a empty template project thw doctype, language, charset, head and body | Without changes |
 | Header | As a user, they can see the header and the menu: Home, About, Services.| Add header and the menu | Without changes   |
+| Show case area | It shows the general information of the web site. | Add a section, create a container, and add the general information | Without changes   |
