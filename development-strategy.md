@@ -12,3 +12,4 @@
 | Styling home page | In this area the user can see the home page with the menu, the general information, the newsletter section and subscribe, and show the information of the services.  | Without changes | Styling: header, show case area, newsletter,services area, and the footer  |
 | About page | Show what is Acme Web Design and information to what we do. | Copy the "Index.html" editing and adding article and aside. | Styling CSS about page|
 | Services page | Show the services and the price information. | Copy the "About.html" editing and adding article and aside. | Styling CSS services page|
+| Media Queries | The window can fit to the all devices:tablets, smartphones etc, the user can see all the content perfectly.  |  Without changes  | Adding asides and styling |
